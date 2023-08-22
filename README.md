@@ -1,4 +1,4 @@
-# HackerrankExercises
+# Hackerrank Exercises
 
 ## Some Hackerrank exercises from Cubos Academy :wales:
 ### Using more about logic and practice my english :+1:
